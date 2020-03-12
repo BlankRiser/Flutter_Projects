@@ -15,6 +15,15 @@ It'll be fixed as soon as you download either one of those. You can downlod them
 [Android Studio](https://developer.android.com/studio)
 [Visual Studio Code](https://code.visualstudio.com/download)
 
+### Cloning my code
+
+```
+git clone https://github.com/BlankRiser/Flutter_Projects.git
+cd Flutter_Projects
+flutter pub get
+```
+Open lib/main.dart in android studio and run it in an emulator.
+
 ## Resources
 
 [1. Flutter Snippets](https://kodestat.gitbook.io/flutter/?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
